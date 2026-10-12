@@ -1,8 +1,12 @@
 export interface Product {
-  id: number | string;
-  title: string;
+  id: number;
+  name: string;
+  slug: string;
+  description?: string | null;
   price: number;
-  description?: string;
-  category?: string;
-  image?: string;
+  stock: number;
+  sku?: string | null;
+  is_active: boolean;
+  created_at?: string;
+  updated_at?: string;
 }

@@ -1,8 +1,8 @@
 'use client';
 
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query';
-import { ProductsService } from '@/src/services/products.service';
-import { Product } from '@/src/types/product';
+import { ProductsService } from '@/services/products.service';
+import { Product } from '@/types/product';
 
 export const QUERY_KEYS = {
   products: ['products'] as const,
