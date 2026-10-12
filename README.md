@@ -212,3 +212,17 @@ ecommerce-dashboard/
 | `pnpm build` | Compila la aplicación para producción                               |
 | `pnpm start` | Inicia el servidor de producción compilado                          |
 | `pnpm lint`  | Analiza el código en busca de errores sintácticos y de regla ESLint |
+--------------------------------------------------------------------------------------
+
+<img width="1366" height="768" alt="Captura desde 2026-10-11 20-12-56" src="https://github.com/user-attachments/assets/dfd0b5c6-daf9-4eba-8774-6f00334fb0fb" />
+<img width="1366" height="768" alt="Captura desde 2026-10-11 20-12-49" src="https://github.com/user-attachments/assets/b462d6e6-839e-42bb-94ec-110daa251be6" />
+<img width="1366" height="768" alt="Captura desde 2026-10-11 20-12-41" src="https://github.com/user-attachments/assets/18bd81b5-d6d2-44af-b584-7c637b4c8ff0" />
+<img width="1366" height="768" alt="Captura desde 2026-10-11 20-12-27" src="https://github.com/user-attachments/assets/b33307f7-908a-4caf-961a-1423a3943ddc" />
+<img width="1366" height="768" alt="Captura desde 2026-10-11 20-11-52" src="https://github.com/user-attachments/assets/f8c076ec-3ad6-4a14-95a8-25bce3749f41" />
+<img width="1366" height="768" alt="Captura desde 2026-10-11 20-11-36" src="https://github.com/user-attachments/assets/24d04037-d648-40f4-84fa-ffc4979504b6" />
+<img width="1366" height="768" alt="Captura desde 2026-10-11 20-10-58" src="https://github.com/user-attachments/assets/7004f58b-4baf-4fd7-85bf-f02c4b57b6cd" />
+<img width="1366" height="768" alt="Captura desde 2026-10-11 20-10-50" src="https://github.com/user-attachments/assets/98e6c6c2-c090-4a39-b815-b8d02bbb8689" />
+<img width="1366" height="768" alt="Captura desde 2026-10-11 20-10-37" src="https://github.com/user-attachments/assets/dbdda00d-9a8f-4430-9ca5-9a1c85d0c525" />
+<img width="1366" height="768" alt="Captura desde 2026-10-11 20-08-56" src="https://github.com/user-attachments/assets/1962c7a7-113e-47ea-8c21-f0863fe18ee8" />
+<img width="997" height="589" alt="Captura desde 2026-10-11 17-39-00" src="https://github.com/user-attachments/assets/fc93a0e1-665a-4997-9217-c2ad3397ecaa" />
+
