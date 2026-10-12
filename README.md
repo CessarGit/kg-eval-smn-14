@@ -224,5 +224,5 @@ ecommerce-dashboard/
 <img width="1366" height="768" alt="Captura desde 2026-10-11 20-10-50" src="https://github.com/user-attachments/assets/98e6c6c2-c090-4a39-b815-b8d02bbb8689" />
 <img width="1366" height="768" alt="Captura desde 2026-10-11 20-10-37" src="https://github.com/user-attachments/assets/dbdda00d-9a8f-4430-9ca5-9a1c85d0c525" />
 <img width="1366" height="768" alt="Captura desde 2026-10-11 20-08-56" src="https://github.com/user-attachments/assets/1962c7a7-113e-47ea-8c21-f0863fe18ee8" />
-<img width="997" height="589" alt="Captura desde 2026-10-11 17-39-00" src="https://github.com/user-attachments/assets/fc93a0e1-665a-4997-9217-c2ad3397ecaa" />
+
 
